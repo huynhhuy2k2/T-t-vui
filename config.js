@@ -7,7 +7,7 @@ const CONFIG = {
     btnYes: 'Oki nha, hihi',
     btnNo: 'Không, tự làm cho quen ',
     question:'Sao lại đồng ý zạ',
-    btnReply: 'Gửi cho anh <3',
+    btnReply: 'Hỏi cc🤔',
     reply: 'Vì là anh em bạn bè😂',
     mess: 'Biết mà 🥰 ( vì nói trước mẹ r )',
     messDesc: 'Sáng mai 8h20 qua nha :D.',
